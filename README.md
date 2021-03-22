@@ -7,3 +7,4 @@ Development work here includes:
 * NPM Packages in TypeScript
 * Personal serverless/static websites in React/Next.js/Gatsby/etc.
 * Python experimentation & learning
+* Legacy PHP libraries
